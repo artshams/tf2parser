@@ -1,0 +1,19 @@
+# venv
+venv/
+
+# ide
+.idea/
+
+# pychache
+*.pyc
+__pycache__/
+*/__pycache__/
+*/*/__pycache__/
+
+# db-migrations
+*/*/migrations/
+
+# static and media files
+static_files/
+media_files
+django-jobwatcher/static_files
